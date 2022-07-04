@@ -1,4 +1,9 @@
 ### Hi there 👋
+I’m @fitnessyulya
+🔭 I’m Technical Recruiter at Softwarium
+📍 Locate in Kyiv/Barcelona
+📫 Telegram @fitnessyulya
+⚡ Fun fact: Co-organizer Zlit events, React Kyiv, member of BeerJS 
 
 <!--
 **fitnessyulya/fitnessyulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
