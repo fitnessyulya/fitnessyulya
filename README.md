@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m @fitnessyulya
+<p> I’m @fitnessyulya </p>
 🔭 I’m Technical Recruiter at Softwarium
 📍 Locate in Kyiv/Barcelona
 📫 Telegram @fitnessyulya
