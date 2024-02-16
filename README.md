@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p> I’m @fitnessyulya </p>
 <p> 🔭 I’m Technical Recruiter at Softwarium</p>
-<p> 📍 Locate in Kyiv/Canada</p>
+<p> 📍 Locate in Calgary, Canada</p>
 <p> 📫 Telegram @fitnessyulya</p>
 <p> ⚡ Fun fact: Co-organizer Zlit events, React Kyiv, member of BeerJS </p>
 
