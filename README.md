@@ -1,9 +1,11 @@
 ### Hi there 👋
 <p> I’m @fitnessyulya </p>
-<p> 🔭 I’m Technical Recruiter at Softwarium</p>
+<p> ⚡ Fun fact: Co-organizer Zlit events, React Kyiv, member of BeerJS </p>
 <p> 📍 Locate in Kyiv, Ukraine</p>
 <p> 📫 Telegram @fitnessyulya</p>
-<p> ⚡ Fun fact: Co-organizer Zlit events, React Kyiv, member of BeerJS </p>
+<p> 🔭 I’m Technical Recruiter at Softwarium</p>
+
+
 
 <!--
 **fitnessyulya/fitnessyulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
